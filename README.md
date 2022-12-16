@@ -1,2 +1,2 @@
 # SPCN-011
-**create master vm (ubuntu-22.04)**
+##สร้าง vm and ct on Proxmox cluster
