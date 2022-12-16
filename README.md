@@ -57,7 +57,7 @@
       
       ln -s /etc/machine-id /var/lib/dbus/machine-id (link ต่อกับ machine-id)
     
-   - **1.8 summary screen
+   - **1.8 summary screen**
       - summary Master VM
       
           ![image](https://user-images.githubusercontent.com/115439255/208167877-bdff2b4b-03a8-45bb-96f5-93348e1c2ef0.png)
@@ -82,7 +82,7 @@
       
       ![image](https://user-images.githubusercontent.com/115439255/208168834-cecaafc3-25ae-4045-9521-46c2229280ae.png)
 
-   - **2.3 แล้วทำการเข้าตัว OS ไปเปลี่ยน timezone กับ เปิดใช้ตัว qemu โดยใช้โค้ดเดียวกับตอนสร้าง Master VM
+   - **2.3 แล้วทำการเข้าตัว OS ไปเปลี่ยน timezone กับ เปิดใช้ตัว qemu โดยใช้โค้ดเดียวกับตอนสร้าง Master VM**
       - นี่คือ หน้า console ของ OS
       
         ![image](https://user-images.githubusercontent.com/115439255/208170993-441c0b0a-d93d-471c-9239-bf87256e57d6.png)
