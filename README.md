@@ -1,2 +1,2 @@
 # SPCN-011
-**1**
+**create master vm (ubuntu-22.04)**
