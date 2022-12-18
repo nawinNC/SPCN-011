@@ -76,19 +76,19 @@
    
       ![image](https://user-images.githubusercontent.com/115439255/208156861-31ba52a5-145c-46d0-a61d-883db4b53e30.png)
       
-   - **2.2 แล้วทำการกรอกข้อมูลให้เสร็จ โดย OS ที่ผมเลือกใช้เป็น linux mint ดังรูป**
+   - **2.2 แล้วทำการกรอกข้อมูลให้เสร็จ โดย OS ที่ผมเลือกใช้เป็น debian ดังรูป**
 
       ![image](https://user-images.githubusercontent.com/115439255/208168783-4cc97b19-cbe3-4c17-b010-5cc7c5f0b71e.png)
       
-      ![image](https://user-images.githubusercontent.com/115439255/208168834-cecaafc3-25ae-4045-9521-46c2229280ae.png)
+      ![image](https://user-images.githubusercontent.com/115439255/208302266-cf43ff5d-5b45-443e-954a-06a0dea9068d.png)
 
    - **2.3 แล้วทำการเข้าตัว OS ไปเปลี่ยน timezone กับ เปิดใช้ตัว qemu โดยใช้โค้ดเดียวกับตอนสร้าง Master VM**
       - นี่คือ หน้า console ของ OS
       
-        ![image](https://user-images.githubusercontent.com/115439255/208170993-441c0b0a-d93d-471c-9239-bf87256e57d6.png)
+        ![image](https://user-images.githubusercontent.com/115439255/208302338-eeb5c0b1-dff8-40a4-9357-49a63435fa3b.png)
       - นี่คือ หน้า summary
       
-        ![image](https://user-images.githubusercontent.com/115439255/208170595-f3bfb491-a2cd-4d77-8119-d0de4cc980a8.png)
+        ![image](https://user-images.githubusercontent.com/115439255/208302343-bb337a0e-68bc-460b-80db-71af764c424e.png)
         
 ### 3.create container template (select from CT list)
    - **3.1 ไปที่เมนูมุมบนขวา กด Create CT**
